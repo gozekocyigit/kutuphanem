@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "671999641186",
+    "project_id": "kutuphanem-a3680",
+    "storage_bucket": "kutuphanem-a3680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671999641186:android:96b1f139d0bb922b5e333b",
+        "android_client_info": {
+          "package_name": "com.example.kutuphanem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671999641186-dtrpldk8lubca1fsli2j6fiaqgfie8m0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kutuphanem",
+            "certificate_hash": "5269bd33603e52c0b274e9d8ed95642e60866860"
+          }
+        },
+        {
+          "client_id": "671999641186-2k8nfp70obksev4gk8mjvst9usq3ql0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg2UhdIadd4UDuEQdwc-Y5GUoDt_IxpIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671999641186-2k8nfp70obksev4gk8mjvst9usq3ql0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
